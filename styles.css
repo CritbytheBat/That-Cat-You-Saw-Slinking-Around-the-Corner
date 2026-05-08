@@ -78,6 +78,8 @@ a:hover {
     font-weight: bold;
     font-size: 10px;
 }
-.howl {
-  color: #d9772a; /* sunset orange */
+
+audio {
+    width: 160px;
+    height: 25px;
 }
